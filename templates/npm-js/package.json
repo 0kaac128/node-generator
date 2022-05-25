@@ -1,0 +1,17 @@
+{
+  "name": "npm-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "9.2.0"
+  },
+  "author": "kaac",
+  "license": "MIT"
+}
